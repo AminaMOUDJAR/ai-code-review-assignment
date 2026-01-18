@@ -1,0 +1,6 @@
+# i think that we need to change the function, it sums the non canceled orders,
+# but it divides it on the entire count of orders 
+# which is wrong 
+# we should only count the orders that have not  been canceled
+
+def ca
